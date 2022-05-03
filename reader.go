@@ -7,7 +7,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/youpy/go-riff"
+	"github.com/mark-larter/go-riff"
 	"github.com/zaf/g711"
 )
 

@@ -10,7 +10,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/youpy/go-wav"
+	"github.com/mark-larter/go-wav"
 	"io"
 	"os"
 )

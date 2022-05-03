@@ -5,7 +5,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/youpy/go-riff"
+	"github.com/mark-larter/go-riff"
 )
 
 type Writer struct {
